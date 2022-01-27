@@ -8,3 +8,7 @@ function fight(char1, char2){
 }
 
 fight(harry, voldemort)
+
+
+// THE MODULE PATTERN
+ 
