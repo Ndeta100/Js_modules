@@ -52,3 +52,10 @@ function (moduleImport, moduleEXport){
     }
 })
 
+// ES6 MODULES
+export function eat(food){
+    return food
+}
+import module1 from 'module1'
+import module2 from 'module2'
+
